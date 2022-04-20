@@ -49,8 +49,7 @@
 
 Как Руководитель я хочу, чтобы участники были уведомлены о событииях, которые будут или уже идут
 
-## Зависимости
-# ![DC.jpg](https://github.com/Lyana2021/CampusIndoorLocation/blob/main/Planer/DC.jpg)
+
 
 
 
